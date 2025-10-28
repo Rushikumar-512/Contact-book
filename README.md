@@ -1,2 +1,1 @@
-# Contact-book
-Simple command-line contact manager in Python — add/view/update/delete with JSON persistence.
+Basic Contact Book — Command-line contact manager in Python. Features: add, view, update, delete, search, import/export JSON. Stored in contacts.json. View on GitHub → https://github.com/USERNAME/contact-book
